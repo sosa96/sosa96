@@ -19,7 +19,7 @@ I'm from Croatia and currently working at Manas d.o.o in the field of ERT (eRese
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sosa96&repo=Yelpcamp&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/sosa96/SASS">
+<a href="https://github.com/sosa96/Task-Manager">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sosa96&repo=SASS&theme=tokyonight" />
 </a>
 

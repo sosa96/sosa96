@@ -20,7 +20,7 @@ I'm from Croatia and currently working at Manas d.o.o in the field of ERT (eRese
 </a>
 
 <a href="https://github.com/sosa96/Task-Manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sosa96&repo=SASS&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sosa96&repo=Task-Manager&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/sosa96/HTML-CSS">

@@ -1,6 +1,6 @@
 <h1 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <p align="center">My name is Zdravko Sosa and I'm a passionate software engineer with a bachelors degree in Computer Science.
-I'm from Croatia and currently working at Manas d.o.o in the field of ERT (eResearchTechnology) specializing in clinical services and customizable medical devices to biopharmaceutical and healthcare organizations. Feel free to contact me on my <a href="https://www.linkedin.com/in/zdravko-sosa">LinkedIn Profile!</a></p>
+I'm from Croatia and currently working at Clario in the field of ERT (eResearchTechnology) specializing in clinical services and customizable medical devices to biopharmaceutical and healthcare organizations. Feel free to contact me on my <a href="https://www.linkedin.com/in/zdravko-sosa">LinkedIn Profile!</a></p>
   
 
 

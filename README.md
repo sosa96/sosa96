@@ -9,10 +9,6 @@ I'm from Croatia and currently working at Clario in the field of ERT (eResearchT
 <h2 align="center">Some of My Projects</h2>
 
 <h5 align="center">
-  
-<a href="https://github.com/sosa96/Spina-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sosa96&repo=Spina-Project&theme=tokyonight" />
-</a>
 
 
 <a href="https://github.com/sosa96/Yelpcamp">
